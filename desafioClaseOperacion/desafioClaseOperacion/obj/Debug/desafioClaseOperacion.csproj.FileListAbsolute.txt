@@ -1,0 +1,6 @@
+C:\Users\tomas\Desktop\Facultad\Laboratorio ll\Clase 13\desafioClaseOperacion\desafioClaseOperacion\bin\Debug\desafioClaseOperacion.exe.config
+C:\Users\tomas\Desktop\Facultad\Laboratorio ll\Clase 13\desafioClaseOperacion\desafioClaseOperacion\bin\Debug\desafioClaseOperacion.exe
+C:\Users\tomas\Desktop\Facultad\Laboratorio ll\Clase 13\desafioClaseOperacion\desafioClaseOperacion\bin\Debug\desafioClaseOperacion.pdb
+C:\Users\tomas\Desktop\Facultad\Laboratorio ll\Clase 13\desafioClaseOperacion\desafioClaseOperacion\obj\Debug\desafioClaseOperacion.csprojResolveAssemblyReference.cache
+C:\Users\tomas\Desktop\Facultad\Laboratorio ll\Clase 13\desafioClaseOperacion\desafioClaseOperacion\obj\Debug\desafioClaseOperacion.exe
+C:\Users\tomas\Desktop\Facultad\Laboratorio ll\Clase 13\desafioClaseOperacion\desafioClaseOperacion\obj\Debug\desafioClaseOperacion.pdb
