@@ -1,0 +1,18 @@
+C:\Users\tomas\Desktop\DesafioHerenciaWindowsForms\DesafioHerenciaWindowsForms\bin\Debug\DesafioHerenciaWindowsForms.exe.config
+C:\Users\tomas\Desktop\DesafioHerenciaWindowsForms\DesafioHerenciaWindowsForms\bin\Debug\DesafioHerenciaWindowsForms.exe
+C:\Users\tomas\Desktop\DesafioHerenciaWindowsForms\DesafioHerenciaWindowsForms\bin\Debug\DesafioHerenciaWindowsForms.pdb
+C:\Users\tomas\Desktop\DesafioHerenciaWindowsForms\DesafioHerenciaWindowsForms\obj\Debug\DesafioHerenciaWindowsForms.csprojResolveAssemblyReference.cache
+C:\Users\tomas\Desktop\DesafioHerenciaWindowsForms\DesafioHerenciaWindowsForms\obj\Debug\DesafioHerenciaWindowsForms.Properties.Resources.resources
+C:\Users\tomas\Desktop\DesafioHerenciaWindowsForms\DesafioHerenciaWindowsForms\obj\Debug\DesafioHerenciaWindowsForms.csproj.GenerateResource.Cache
+C:\Users\tomas\Desktop\DesafioHerenciaWindowsForms\DesafioHerenciaWindowsForms\obj\Debug\DesafioHerenciaWindowsForms.exe
+C:\Users\tomas\Desktop\DesafioHerenciaWindowsForms\DesafioHerenciaWindowsForms\obj\Debug\DesafioHerenciaWindowsForms.pdb
+C:\Users\tomas\Desktop\DesafioHerenciaWindowsForms\DesafioHerenciaWindowsForms\obj\Debug\DesafioHerenciaWindowsForms.Form1.resources
+C:\Users\tomas\Desktop\Facultad\Laboratorio ll\Clase 17\DesafioHerenciaWindowsForms\DesafioHerenciaWindowsForms\bin\Debug\DesafioHerenciaWindowsForms.exe.config
+C:\Users\tomas\Desktop\Facultad\Laboratorio ll\Clase 17\DesafioHerenciaWindowsForms\DesafioHerenciaWindowsForms\obj\Debug\DesafioHerenciaWindowsForms.exe
+C:\Users\tomas\Desktop\Facultad\Laboratorio ll\Clase 17\DesafioHerenciaWindowsForms\DesafioHerenciaWindowsForms\obj\Debug\DesafioHerenciaWindowsForms.pdb
+C:\Users\tomas\Desktop\Facultad\Laboratorio ll\Clase 17\DesafioHerenciaWindowsForms\DesafioHerenciaWindowsForms\bin\Debug\DesafioHerenciaWindowsForms.exe
+C:\Users\tomas\Desktop\Facultad\Laboratorio ll\Clase 17\DesafioHerenciaWindowsForms\DesafioHerenciaWindowsForms\bin\Debug\DesafioHerenciaWindowsForms.pdb
+C:\Users\tomas\Desktop\Facultad\Laboratorio ll\Clase 17\DesafioHerenciaWindowsForms\DesafioHerenciaWindowsForms\obj\Debug\DesafioHerenciaWindowsForms.csprojResolveAssemblyReference.cache
+C:\Users\tomas\Desktop\Facultad\Laboratorio ll\Clase 17\DesafioHerenciaWindowsForms\DesafioHerenciaWindowsForms\obj\Debug\DesafioHerenciaWindowsForms.Form1.resources
+C:\Users\tomas\Desktop\Facultad\Laboratorio ll\Clase 17\DesafioHerenciaWindowsForms\DesafioHerenciaWindowsForms\obj\Debug\DesafioHerenciaWindowsForms.Properties.Resources.resources
+C:\Users\tomas\Desktop\Facultad\Laboratorio ll\Clase 17\DesafioHerenciaWindowsForms\DesafioHerenciaWindowsForms\obj\Debug\DesafioHerenciaWindowsForms.csproj.GenerateResource.Cache
